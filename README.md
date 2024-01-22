@@ -1,5 +1,3 @@
-![parlant_logo (1)](https://github.com/Bforis/Parlant/assets/34284864/d764ddab-3483-46cf-9afc-bd3a26196308 =x250)
-
 # Parlant
 
 A simple text-to-speech application on Windows, you simply leave the application open, **copy a text** and use the shortcut **CTRL+Shift+R** or click on the play button in the application to launch audio playback of the copied text.
