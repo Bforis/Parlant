@@ -1,4 +1,4 @@
-![parlant_logo (1)](https://github.com/Bforis/Parlant/assets/34284864/d764ddab-3483-46cf-9afc-bd3a26196308 =250x)
+![parlant_logo (1)](https://github.com/Bforis/Parlant/assets/34284864/d764ddab-3483-46cf-9afc-bd3a26196308 =x250)
 
 # Parlant
 
