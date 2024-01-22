@@ -8,10 +8,10 @@
     <Grid>
         <Border Padding="100">
             <StackPanel>
-                <Button x:Name="readButton" Content="Lire le Presse-papiers" Click="ReadButton_Click"/>
+                <Button x:Name="readButton" Content="Play" Click="ReadButton_Click"/>
                 <TextBlock>Volume</TextBlock>
                 <Slider x:Name="volumeSlider" Minimum="0" Maximum="100" Value="50"/>
-                <TextBlock>Vitesse</TextBlock>
+                <TextBlock>Speed</TextBlock>
                 <Slider x:Name="rateSlider" Minimum="-10" Maximum="10" Value="0"/>
                 <ComboBox x:Name="languageComboBox" SelectionChanged="LanguageComboBox_SelectionChanged"/>
             </StackPanel>
