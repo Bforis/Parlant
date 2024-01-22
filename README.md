@@ -4,7 +4,7 @@ A simple text-to-speech application on Windows, you simply leave the application
 
 You can change the language in relation to the languages installed on your computer. You can also change the volume and speed of the audio.
 
-Notes: 
+**Notes**: 
 - Minimizing the window will display the application in the notification area (system tray), but closing the window will close the application. To close the application while it's in the notification area, double-click on the icon and simply close the window.
 - The .ico doesn't fit properly.
 
