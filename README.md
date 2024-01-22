@@ -6,9 +6,9 @@ You can change the language in relation to the languages installed on your compu
 
 **Notes**: 
 - Minimizing the window will display the application in the notification area (system tray), but closing the window will close the application. To close the application while it's in the notification area, double-click on the icon and simply close the window.
-- The .ico doesn't fit properly.
 
 *Error*:
+- The .ico doesn't fit properly.
 - After pausing and changing the text, you need to launch the audio twice for it to work.
 - You can't change speed, voice or volume during playback, so you'll have to change the settings and then play again.
 
